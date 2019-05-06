@@ -1,5 +1,5 @@
 ## agenda-virtual
-simple proyecto echo en C, el cual consiste en Registrar contactos de manera virtual , y se almacena en un fichero binario
+simple proyecto hecho en C, el cual consiste en Registrar contactos de manera virtual , y se almacena en un fichero binario
 
 ## Screenshots
 
